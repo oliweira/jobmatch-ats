@@ -48,4 +48,4 @@ O **JobMatch ATS** compara o texto da vaga com o currículo do usuário, identif
 ## 🌐 Endereço da Aplicação
 
 - **Repositório GitHub:** `https://github.com/oliweira/jobmatch-ats`
-- **Aplicação Online (Vercel / GitHub Pages):** `https://oliweira-jobmatch-ats.vercel.app`
+- **Aplicação Online (GitHub Pages):** `https://oliweira.github.io/jobmatch-ats/`
